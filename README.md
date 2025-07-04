@@ -98,6 +98,17 @@ When you start the game:
 
 - When it lands, it freezes in place, and a new faller appears.
 
+### Game Screenshots
+
+<img src="images/image1.png" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/image2.png" width="200">
+
+**A fresh game board before any moves.**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **A faller in progress.**
+
+<img src="images/image3.png" width="200">
+
+**Jewels after freezing.**
+
+
 _Notes_
 - Game Mechanics: The project supports creating fallers, moving, rotating, and freezing them. Matching mechanics are optional and can be added as an enhancement.
 
